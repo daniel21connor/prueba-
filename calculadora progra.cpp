@@ -39,8 +39,7 @@ do{
 			system("pause");
 		break;
 	}
-	system("cls");
-}while(opciones<=4);
+
 
 }
 
