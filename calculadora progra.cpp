@@ -53,9 +53,7 @@ void pedirdat (){
 }
 
 
- void suma(float s,float q){
- 	float suma = s + q ;
- 	
+
  	cout<< " TU SUMA ES=" <<suma<<endl;
  	
  }
